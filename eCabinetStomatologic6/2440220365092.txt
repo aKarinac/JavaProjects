@@ -1,0 +1,17 @@
+Nume: Staicu
+Prenume: Elena
+CNP: 2440220365092
+Varsta: 24
+Sex: Feminin
+Data Nasterii: 21.06.1997
+Nr. Telefon: 0716289693
+Adresa E-mail: staicuElena21@gmail.com
+Diagnostic: Pulpita Acuta Totala
+Tratament: Opturatie de canal
+Medic: Dr. Grigore Radu
+
+Consultatie: 01.02.2022 - 180 lei + Tratament de Canal - 250 lei
+Examinare Clinica: 02.02.2022 - Opturatie de Canal : 400 lei
+Img:C:\Users\eu\Desktop\pulpita2.jpg
+Img:C:\Users\eu\Desktop\pulpita.jpg
+Img:C:\Users\eu\Desktop\FMI\ANUL 2\Semestrul 1\Programare orientata pe obiecte(POO)\poze dentar\rsz_carii_dentare_pe_radiografie.jpg

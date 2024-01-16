@@ -1,0 +1,17 @@
+Nume: Lupu
+Prenume: Emanoil
+CNP: 5980117236491
+Varsta: 42
+Sex: Masculin
+Data Nasterii: 09.12.1979
+Nr. Telefon: 0760861202
+Adresa E-mail: lupuEmanoil@yahoo.com
+Diagnostic: Rest Radicular
+Tratament: Extractie si Implant dentar
+Medic: Dr. Dumitrache Maria
+
+Consult: 18.01.2022 - 180 lei
+Examinare clinica: 20.01.2022 - Extractie + Tratament : 350 lei
+Examinare clinica: 23.01.2022 - Implant Dentar : 500 lei
+Img:C:\Users\eu\Desktop\Implant.jpg
+Img:C:\Users\eu\Desktop\implant (2).jpg

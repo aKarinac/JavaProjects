@@ -1,0 +1,15 @@
+Nume: Neagoe
+Prenume: Sebastian
+CNP: 5200207309877
+Varsta: 24
+Sex: Masculin
+Data Nasterii: 06.10.1997
+Nr. Telefon: 0744662495
+Adresa E-mail: sebastianNeagu@yahoo.com
+Diagnostic: Dinti Nanici
+Tratament: Fatete Dentare
+Medic: Dr. Grigore Radu
+
+Consult: 10.01.2022 -180 lei 
+Examinare Clinica: Fatete Dentare - 700 lei
+Img:C:\Users\eu\Desktop\dinti nanici.jpg

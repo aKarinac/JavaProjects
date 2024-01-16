@@ -1,0 +1,16 @@
+Nume: Vasilescu
+Prenume: Marina
+CNP: 2740108256056
+Varsta: 20
+Sex: Feminin
+Data Nasterii: 04.11.2001
+Nr. Telefon: 0752906641
+Adresa E-mail: MarinaVasi@gmail.com
+Diagnostic: Parodontopatie Juvenila
+Tratament: Detartraj Periodic
+Medic: Dr. Crengasu Viorel
+
+Consult: 25.01.2022 - 180 lei
+Examinare Clinica: 29.01.2022 - Detartraj : 150 lei
+Img:C:\Users\eu\Desktop\parondontie.jpg
+Img:C:\Users\eu\Desktop\parodontopatie.jpg

@@ -1,0 +1,17 @@
+Nume: Irimia
+Prenume: Eliana
+CNP: 2450106258789
+Varsta: 35
+Sex: Feminin
+Data Nasterii: 08.10.1986
+Nr. Telefon: 0712151233
+Adresa E-mail: Irimia.eliana@yahoo.com
+Diagnostic: Leziune Carioasa
+Tratament: Opturatie de compozit
+Medic: Dr. Crengasu Viorel
+
+
+Consult : 13.01.2022 - 180 lei
+Examinare clinica: 15.01.2022 - Opturatie de compozit: 300 lei
+Img:C:\Users\eu\Desktop\rsz_carii_dentare_pe_radiografie.jpg
+Img:C:\Users\eu\Desktop\download.jpg
